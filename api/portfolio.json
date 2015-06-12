@@ -1,0 +1,59 @@
+{"listing": [
+  {
+    "order": 1,
+    "name": "Lindsey Antin",
+    "icon": "../images/placeholder-image.png",
+    "url" : "http://www.lindseyantin.com",
+    "type": "WordPress",
+    "date": "Jan-Feb 2015",
+    "info": "Lindsey had a website that needed punching-up and updating to better serve her customers.",
+    "items" :[
+              " Redesigned her header banner, it fits her layout better, its now responsive and features indexable text that improved her search engine ranking over her previous graphic-based banner."
+            , "New sections were added for new content that was available"
+            , "All of her menus were updated, including a dropdown to her newsletter archives"
+            , "Her new employee was listed and her compliance forms were made available"
+            , "The footer was reflowed and updated to feature her awards and made not to disrupt her website"
+            ],
+    "blurb": "Thanks for your work Alex!",
+    "blurb_a": "Lindsey"
+  },
+
+  {
+    "order": 2,
+    "name": "Ocean Santa Monica",
+    "icon": "../images/placeholder-image.png",
+    "url" : "http://www.oceansantamonica.com",
+    "type": "WordPress",
+    "date": "March 2015",
+    "info": "This was a pretty good website already, but it still needed a little love.",
+    "items" :[
+              "Listings and properties were outdated and were causing problems for management."
+            , "Their assets database was nicely pruned and the site scoured to remove any outdated info."
+            , "Generated a QR code to use for local advertizing."
+            , "Deployed a landing page with an easily customizable redirect to business focus to leverage the new QR code"
+            , "A lot of SEO uptimization for their main featured pages."
+            ],
+    "blurb": "Alex, This is all really superb…",
+    "blurb_a": "Kate"
+  },
+
+  {
+    "order": 3,
+    "name": "Seattle Autism",
+    "icon": "../images/placeholder-image.png",
+    "url" : "http://seattleautism.org",
+    "type": "WordPress",
+    "date": "January 2015",
+    "info": "This website needed an urgent update and facelift for their upcoming annual symposyum.",
+    "items" :[
+              "All their event info was outdated: location, dates, speakers, cost... everything had to be current right away!"
+            , "Their color scheeme made the site nearly illegible, applied lots of custom CSS"
+            , "Colors were chosen to match the brand of their host partner (UW)"
+            , "Quickly designed a logo that no longer shifted the template"
+            , "Integrated with Evenbrite and designed a very customized registration form"
+            , "Designed a relevant footer with useful information including an interactive map"
+            ],
+    "blurb": "The site does look great .. Thanks for all your work.  Rock star.",
+    "blurb_a": "Russell"
+  }
+]}
