@@ -19,6 +19,10 @@ app.config(function ($routeProvider) {
       controller: 'PortfolioController',
       templateUrl: 'views/portfolio.html'
     })
+    .when('/contact', {
+      controller: 'ContactController',
+      templateUrl: 'views/contact.html'
+    })
     .otherwise({
       redirectTo: '/home'
     });
