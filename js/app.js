@@ -1,5 +1,4 @@
-var app = angular.module('app', ['ngRoute']);
-
+var app = angular.module('app', ['ngRoute', 'filters-module']);
 
 app.config(function ($routeProvider) {
   $routeProvider
@@ -43,4 +42,4 @@ angular
       templateUrl: 'views/resume.html'
     })
   ]);
-  */
+*/
