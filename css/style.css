@@ -4,6 +4,10 @@ body {
 	font-family: Verdana, Sans Serif;
 	}
 
+a img {
+	border: none;
+}
+
 a, a.visited {
 	color: #ccc;
 }

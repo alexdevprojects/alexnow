@@ -1,6 +1,34 @@
 body {
+  background-color: rgba(0, 0, 0, .8);
   background-image: url("../images/backgrounds/7030767-3d-background-wallpaper.jpg");
   background-size: "100%", "100%";
   background-repeat: no-repeat;
   background-attachment: fixed;
+  font-size: 1.5em;
+}
+
+.ng_view_bg {
+  /* For IE 5.5 - 7*/
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+  /* For IE 8*/
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
+  /* Fallback for browsers without rgba support*/
+  background: rgb(77, 77, 77);
+  /* But really, this is what I want */
+  background: rgba(77, 77, 77, 0.5);
+  /*border-width: 3px;
+  border-style: solid;
+  border-color: rgb(77, 77, 77);
+  border-color: rgba(77, 77, 77, 0.7);*/
+  border-radius: 12px;
+  padding-bottom: 12px;
+}
+
+.ng_view_bg div {
+  opacity: 1;
+}
+
+.btn-next-top, .btn-next-btm {
+  display: block;
+  float: right;
 }
