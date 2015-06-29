@@ -3,6 +3,7 @@
     "order": 1,
     "name": "Lindsey Antin",
     "icon": "../images/placeholder-image.png",
+    "icon": "../images/screenshots/thumbs/lindseyantin_thumb.png",
     "url" : "http://www.lindseyantin.com",
     "type": "WordPress",
     "date": "Jan-Feb 2015",
@@ -21,7 +22,7 @@
   {
     "order": 2,
     "name": "Ocean Santa Monica",
-    "icon": "../images/placeholder-image.png",
+    "icon": "../images/screenshots/thumbs/oceansantamonica_thumb.png",
     "url" : "http://www.oceansantamonica.com",
     "type": "WordPress",
     "date": "March 2015",
@@ -40,7 +41,7 @@
   {
     "order": 3,
     "name": "Seattle Autism",
-    "icon": "../images/placeholder-image.png",
+    "icon": "../images/screenshots/thumbs/stas_thumb.png",
     "url" : "http://seattleautism.org",
     "type": "WordPress",
     "date": "January 2015",
